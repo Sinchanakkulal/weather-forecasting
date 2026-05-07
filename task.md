@@ -69,8 +69,8 @@ LLM-Based Conversational AI System)
 - [ ] Optionally connect to a chatbot API or local AI model
 
 ### 7. Seasonal Plant Recommendations
-- [x] Determine current month and season for India
-- [x] Create plant recommendation lists:
+- [ ] Determine current month and season for India
+- [ ] Create plant recommendation lists:
   - Flowers
   - Vegetables
   - Food crops
